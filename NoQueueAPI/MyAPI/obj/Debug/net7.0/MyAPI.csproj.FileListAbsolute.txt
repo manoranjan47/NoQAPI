@@ -1,0 +1,902 @@
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.AssemblyReference.cache
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfoInputs.cache
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CoreCompileInputs.cache
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\appsettings.Development.json
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\appsettings.json
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\MyAPI.exe
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\MyAPI.deps.json
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\MyAPI.runtimeconfig.json
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\MyAPI.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\MyAPI.pdb
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Azure.Core.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Azure.Identity.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Humanizer.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\System.CodeDom.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\System.Memory.Data.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.pdb
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.MyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAPI.props
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAPI.props
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAPI.props
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\staticwebassets.pack.json
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\staticwebassets.build.json
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\staticwebassets.development.json
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\scopedcss\bundle\MyAPI.styles.css
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CopyComplete
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.dll
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\refint\MyAPI.dll
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.pdb
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\MyAPI.genruntimeconfig.cache
+F:\MyProject\MyAPI\MyAPI\obj\Debug\net7.0\ref\MyAPI.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\MyProject\MyAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.AssemblyReference.cache
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfoInputs.cache
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CoreCompileInputs.cache
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.json
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.exe
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.deps.json
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.runtimeconfig.json
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.pdb
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Humanizer.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.pdb
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.MyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAPI.props
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAPI.props
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAPI.props
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\scopedcss\bundle\MyAPI.styles.css
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CopyComplete
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\refint\MyAPI.dll
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.pdb
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.genruntimeconfig.cache
+E:\Projects\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\ref\MyAPI.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.json
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.exe
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.deps.json
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.runtimeconfig.json
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.pdb
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Humanizer.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.pdb
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.AssemblyReference.cache
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfoInputs.cache
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CoreCompileInputs.cache
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.MyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAPI.props
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAPI.props
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAPI.props
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\scopedcss\bundle\MyAPI.styles.css
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CopyComplete
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\refint\MyAPI.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.pdb
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.genruntimeconfig.cache
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\ref\MyAPI.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.dll
+E:\DOWNLOAD\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.json
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.exe
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.deps.json
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.runtimeconfig.json
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.pdb
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Humanizer.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.pdb
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.AssemblyReference.cache
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfoInputs.cache
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CoreCompileInputs.cache
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.MyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAPI.props
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAPI.props
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAPI.props
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\scopedcss\bundle\MyAPI.styles.css
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CopyComplete
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\refint\MyAPI.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.pdb
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.genruntimeconfig.cache
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\obj\Debug\net7.0\ref\MyAPI.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\PROJECTS\noQ\NoQueue\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.json
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.exe
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.deps.json
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.runtimeconfig.json
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.pdb
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Humanizer.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.pdb
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.AssemblyReference.cache
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfoInputs.cache
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CoreCompileInputs.cache
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.sourcelink.json
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.MyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAPI.props
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAPI.props
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAPI.props
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\scopedcss\bundle\MyAPI.styles.css
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CopyComplete
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.dll
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\refint\MyAPI.dll
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.pdb
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.genruntimeconfig.cache
+E:\NQ\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\ref\MyAPI.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Common.dll
+E:\NQ\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Core.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.json
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.exe
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.deps.json
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.runtimeconfig.json
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.pdb
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Humanizer.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Common.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Core.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.dll
+E:\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.pdb
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.AssemblyReference.cache
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfoInputs.cache
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CoreCompileInputs.cache
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.MyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAPI.props
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAPI.props
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAPI.props
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\scopedcss\bundle\MyAPI.styles.css
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CopyComplete
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.dll
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\refint\MyAPI.dll
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.pdb
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.genruntimeconfig.cache
+E:\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\ref\MyAPI.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.json
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.exe
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.deps.json
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.runtimeconfig.json
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.pdb
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Humanizer.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Common.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Core.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.pdb
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.AssemblyReference.cache
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfoInputs.cache
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CoreCompileInputs.cache
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.MyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAPI.props
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAPI.props
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAPI.props
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\scopedcss\bundle\MyAPI.styles.css
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CopyComplete
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\refint\MyAPI.dll
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.pdb
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.genruntimeconfig.cache
+E:\PROJECTS\B\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\ref\MyAPI.dll
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.AssemblyReference.cache
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfoInputs.cache
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CoreCompileInputs.cache
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.sourcelink.json
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.dll
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\refint\MyAPI.dll
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.pdb
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.json
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.exe
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.deps.json
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.runtimeconfig.json
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.pdb
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Humanizer.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Common.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Core.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.dll
+E:\New folder\B\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.pdb
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.MyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAPI.props
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAPI.props
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAPI.props
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\scopedcss\bundle\MyAPI.styles.css
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CopyComplete
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.genruntimeconfig.cache
+E:\New folder\B\NoQueueAPI\MyAPI\obj\Debug\net7.0\ref\MyAPI.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.json
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.exe
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.deps.json
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.runtimeconfig.json
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.pdb
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Humanizer.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Common.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Core.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.pdb
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.AssemblyReference.cache
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfoInputs.cache
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CoreCompileInputs.cache
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.MyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAPI.props
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAPI.props
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAPI.props
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\scopedcss\bundle\MyAPI.styles.css
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CopyComplete
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\refint\MyAPI.dll
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.pdb
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.genruntimeconfig.cache
+E:\PROJECTS\noQ\New folder\NoQueueAPI\MyAPI\obj\Debug\net7.0\ref\MyAPI.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\appsettings.json
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.exe
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.deps.json
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.runtimeconfig.json
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\MyAPI.pdb
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Humanizer.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\QRCoder.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Common.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\Twilio.AspNet.Core.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\bin\Debug\net7.0\DataAccessLibrary.pdb
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.AssemblyReference.cache
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfoInputs.cache
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.AssemblyInfo.cs
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CoreCompileInputs.cache
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.MyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAPI.props
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAPI.props
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAPI.props
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\scopedcss\bundle\MyAPI.styles.css
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.csproj.CopyComplete
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\refint\MyAPI.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.pdb
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.genruntimeconfig.cache
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\ref\MyAPI.dll
+E:\PROJECTS\noQ\API\NoQueueAPI\MyAPI\obj\Debug\net7.0\MyAPI.sourcelink.json

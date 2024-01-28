@@ -1,0 +1,36 @@
+--CountryData
+--select * from [dbo].[CountryMaster]
+INSERT INTO [dbo].[CountryMaster] VALUES 
+    ('India', 91, 1, GETDATE(), 0),
+    ('United States', 1, 1, GETDATE(), 0),
+    ('China', 86, 1, GETDATE(), 0),
+    ('Brazil', 55, 1, GETDATE(), 0);
+
+--State  select * from [dbo].[StateMaster]
+INSERT INTO [dbo].[StateMaster] VALUES 
+    (1, 'Uttar Pradesh', 0,1, GETDATE(), 0),
+    (2, 'California', 0,1, GETDATE(), 0),
+    (3, 'Beijing', 0,1, GETDATE(), 0),
+    (2, 'Texas', 0,1, GETDATE(), 0),
+    (3, 'Shanghai', 0,1, GETDATE(), 0),
+    (1, 'Karnataka', 0,1, GETDATE(), 0),
+    (2, 'New York', 0,1, GETDATE(), 0),
+    (1, 'Maharashtra', 0,1, GETDATE(), 0);
+
+
+--District  select * from [dbo].[DistrictMaster]
+
+INSERT INTO [dbo].[DistrictMaster] VALUES 
+    ( 1, 'Lucknow',1, GETDATE(), 0),
+    ( 1, 'Noida', 1, GETDATE(), 0),
+    ( 1, 'Mirzapur',1, GETDATE(), 0),
+    ( 1, 'Hardoi', 1, GETDATE(), 0);
+
+--City  select * from [dbo].[CityMaster]
+
+INSERT INTO [dbo].[CityMaster] VALUES 
+    ( 1, 'Lucknow',1, GETDATE(), 0),
+    ( 2, 'Noida', 1, GETDATE(), 0),
+    ( 3, 'Mirzapur',1, GETDATE(), 0),
+    ( 4, 'Hardoi', 1, GETDATE(), 0);
+

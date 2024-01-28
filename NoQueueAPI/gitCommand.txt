@@ -1,0 +1,15 @@
+git init
+git add .
+git status
+git commit -m "description"
+git branch -M main
+git remote add origin <github repository link>
+git push -u origin master(branch name)
+====================================================
+end of line
+
+for commit existing
+================================
+git add .
+git commit -m "description"
+git push -u origin master(branch name)
