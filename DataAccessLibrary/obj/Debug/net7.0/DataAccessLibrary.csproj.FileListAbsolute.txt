@@ -141,3 +141,18 @@ E:\PROJECTS\noQ\API\NoQueueAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibr
 E:\PROJECTS\noQ\API\NoQueueAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.genruntimeconfig.cache
 E:\PROJECTS\noQ\API\NoQueueAPI\DataAccessLibrary\obj\Debug\net7.0\ref\DataAccessLibrary.dll
 E:\PROJECTS\noQ\API\NoQueueAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.sourcelink.json
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.deps.json
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.runtimeconfig.json
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.dll
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.pdb
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.csproj.AssemblyReference.cache
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.AssemblyInfoInputs.cache
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.AssemblyInfo.cs
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.sourcelink.json
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.dll
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\refint\DataAccessLibrary.dll
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.pdb
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.genruntimeconfig.cache
+E:\PROJECTS\noQ\API 29JAN24\NoQAPI\DataAccessLibrary\obj\Debug\net7.0\ref\DataAccessLibrary.dll

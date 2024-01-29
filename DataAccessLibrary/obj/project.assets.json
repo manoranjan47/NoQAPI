@@ -4537,11 +4537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PROJECTS\\noQ\\API\\NoQueueAPI\\DataAccessLibrary\\DataAccessLibrary.csproj",
+      "projectUniqueName": "E:\\PROJECTS\\noQ\\API 29JAN24\\NoQAPI\\DataAccessLibrary\\DataAccessLibrary.csproj",
       "projectName": "DataAccessLibrary",
-      "projectPath": "E:\\PROJECTS\\noQ\\API\\NoQueueAPI\\DataAccessLibrary\\DataAccessLibrary.csproj",
+      "projectPath": "E:\\PROJECTS\\noQ\\API 29JAN24\\NoQAPI\\DataAccessLibrary\\DataAccessLibrary.csproj",
       "packagesPath": "C:\\Users\\Riyan\\.nuget\\packages\\",
-      "outputPath": "E:\\PROJECTS\\noQ\\API\\NoQueueAPI\\DataAccessLibrary\\obj\\",
+      "outputPath": "E:\\PROJECTS\\noQ\\API 29JAN24\\NoQAPI\\DataAccessLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Riyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

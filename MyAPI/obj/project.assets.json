@@ -5363,11 +5363,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PROJECTS\\noQ\\API\\NoQueueAPI\\MyAPI\\MyAPI.csproj",
+      "projectUniqueName": "E:\\PROJECTS\\noQ\\API 29JAN24\\NoQAPI\\MyAPI\\MyAPI.csproj",
       "projectName": "MyAPI",
-      "projectPath": "E:\\PROJECTS\\noQ\\API\\NoQueueAPI\\MyAPI\\MyAPI.csproj",
+      "projectPath": "E:\\PROJECTS\\noQ\\API 29JAN24\\NoQAPI\\MyAPI\\MyAPI.csproj",
       "packagesPath": "C:\\Users\\Riyan\\.nuget\\packages\\",
-      "outputPath": "E:\\PROJECTS\\noQ\\API\\NoQueueAPI\\MyAPI\\obj\\",
+      "outputPath": "E:\\PROJECTS\\noQ\\API 29JAN24\\NoQAPI\\MyAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Riyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5384,8 +5384,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\PROJECTS\\noQ\\API\\NoQueueAPI\\DataAccessLibrary\\DataAccessLibrary.csproj": {
-              "projectPath": "E:\\PROJECTS\\noQ\\API\\NoQueueAPI\\DataAccessLibrary\\DataAccessLibrary.csproj"
+            "E:\\PROJECTS\\noQ\\API 29JAN24\\NoQAPI\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+              "projectPath": "E:\\PROJECTS\\noQ\\API 29JAN24\\NoQAPI\\DataAccessLibrary\\DataAccessLibrary.csproj"
             }
           }
         }

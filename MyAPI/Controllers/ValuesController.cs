@@ -9,8 +9,8 @@ namespace MyAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "User")]
-    public class ValuesController : ControllerBase
+/*    [Authorize(Roles = "User")]
+*/    public class ValuesController : ControllerBase
     {
         private readonly IPaymentTypeService _paymentTypeService;
         public ValuesController(IPaymentTypeService paymentTypeService)
@@ -21,10 +21,10 @@ namespace MyAPI.Controllers
 
         //[Authorize]
         [HttpGet("Get")]
-        public int Get()
+        public string Get()
         {
             //var user=User.FindFirstValue(ClaimTypes.NameIdentifier);
-            return Convert.ToInt32("na");
+            return "HELLO API";
         }
 
         [HttpGet("PaymentType")]

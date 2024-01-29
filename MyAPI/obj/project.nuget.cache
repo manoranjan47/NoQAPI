@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7rnSDa3489vucm5t/rXN+DQphcje/GHoWRdnh7paHpZwJqTJxhPBcEcRt+yRm1A/9Ubr8fveG4UEoIYbE9HJMA==",
+  "dgSpecHash": "5DehKTH2HWj9JAx/nLPvokwH4bmHjyifGWb5wbsXwM83oSQ1ixmrTksJ19dAu5mIm2Mvv/7fIdXntr+VeCcReQ==",
   "success": true,
-  "projectFilePath": "E:\\PROJECTS\\noQ\\API\\NoQueueAPI\\MyAPI\\MyAPI.csproj",
+  "projectFilePath": "E:\\PROJECTS\\noQ\\API 29JAN24\\NoQAPI\\MyAPI\\MyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Riyan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Riyan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
