@@ -1433,7 +1433,7 @@ namespace DataAccessLibrary.Migrations
                         {
                             PhotoCategoryId = 1,
                             CategoryName = "Branch",
-                            CreatedDate = new DateTime(2024, 1, 29, 21, 15, 59, 536, DateTimeKind.Local).AddTicks(8831),
+                            CreatedDate = new DateTime(2024, 1, 30, 0, 25, 20, 881, DateTimeKind.Local).AddTicks(3845),
                             Id = 1,
                             IsActive = true,
                             IsDeleted = false
@@ -1989,49 +1989,49 @@ namespace DataAccessLibrary.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "8a032b40-9d23-412b-aa02-85fb8d4669ae",
+                            Id = "9d44ca37-bfb4-4b3a-be9a-00dfc81a735a",
                             ConcurrencyStamp = "1",
                             Name = "CompanyAdmin",
                             NormalizedName = "CompanyAdmin"
                         },
                         new
                         {
-                            Id = "68b4e543-d331-4d6c-8197-e08cfae272b4",
+                            Id = "31a2a9b8-8a5b-4c32-942d-af3457f873b5",
                             ConcurrencyStamp = "2",
                             Name = "User",
                             NormalizedName = "User"
                         },
                         new
                         {
-                            Id = "21c7e464-cd26-4d8d-93b0-6d31a002c899",
+                            Id = "22084e7a-8bd0-4bc0-9645-ce60f0d5eefa",
                             ConcurrencyStamp = "3",
                             Name = "Customer",
                             NormalizedName = "Customer"
                         },
                         new
                         {
-                            Id = "38a5489f-7acc-4417-a88b-57f45541af94",
+                            Id = "5c75e693-1f4a-4a34-bb65-db5fbc5ee93d",
                             ConcurrencyStamp = "4",
                             Name = "Branch Head",
                             NormalizedName = "BranchHead"
                         },
                         new
                         {
-                            Id = "a6186cf0-1630-4900-8aa6-2a9a7c9b2d43",
+                            Id = "be48a133-ce33-4edd-9af3-114f3d7e2f9b",
                             ConcurrencyStamp = "5",
                             Name = "Cashier",
                             NormalizedName = "Cashier"
                         },
                         new
                         {
-                            Id = "a56100ff-8f7a-4255-8e6b-693050fa5956",
+                            Id = "8cedbd54-22aa-4c69-84b0-3026c2411103",
                             ConcurrencyStamp = "6",
                             Name = "Kitchen Supervisor",
                             NormalizedName = "KitchenSupervisor"
                         },
                         new
                         {
-                            Id = "f4f1b5b3-9ea7-4a49-a77e-29db6de77051",
+                            Id = "c220ae5c-79a5-4059-9164-5443f107e4b9",
                             ConcurrencyStamp = "7",
                             Name = "Steward",
                             NormalizedName = "Steward"
