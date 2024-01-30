@@ -18,14 +18,14 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 var app = builder.Build();
 // in general
-/*
+
 app.UseStaticFiles(new StaticFileOptions
 {
     FileProvider = new PhysicalFileProvider(
               Path.Combine(Directory.GetCurrentDirectory(), "uploads")),
     RequestPath = "/api/uploads"
 });
-*/
+
 app.UseCors("AllowSpecificOrigin");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
