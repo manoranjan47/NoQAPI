@@ -24,7 +24,7 @@ app.UseStaticFiles(new StaticFileOptions
               Path.Combine(Directory.GetCurrentDirectory(), "uploads")),
     RequestPath = "/api/uploads"
 });
-
+/*
 app.UseCors("AllowSpecificOrigin");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -32,7 +32,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+*/
 app.UseCors(mySpecification);
 app.UseAuthentication();
 app.UseAuthorization();
