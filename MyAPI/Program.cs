@@ -21,10 +21,12 @@ var app = builder.Build();
 
 app.UseStaticFiles(new StaticFileOptions
 {
-    FileProvider = new PhysicalFileProvider(
-              Path.Combine(Directory.GetCurrentDirectory(), "uploads")),
+    FileProvider = new PhysicalFileProvider(Path.Combine(Environment.CurrentDirectory, "uploads")),
     RequestPath = "/api/uploads"
 });
+
+// Other middleware configurations...
+
 
 app.UseCors("AllowSpecificOrigin");
 // Configure the HTTP request pipeline.
