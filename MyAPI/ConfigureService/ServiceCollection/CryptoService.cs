@@ -5,6 +5,7 @@ namespace MyAPI.ConfigureService.ServiceCollection
 {
      public class CryptoService
  {
+          /*
      private const string key = "01234567890123456789012345678901";
      private const string iv = "0123456789ABCDEF";
 
@@ -128,7 +129,7 @@ namespace MyAPI.ConfigureService.ServiceCollection
          }
      }
 
-     /*
+     */
      private readonly string secretKey = "MySecretKey123!@#";
 
      public string Encrypt(object data)
@@ -192,6 +193,6 @@ namespace MyAPI.ConfigureService.ServiceCollection
          return Decrypt(encryptedData);
      }
      
-      */
+      
  }
 }
