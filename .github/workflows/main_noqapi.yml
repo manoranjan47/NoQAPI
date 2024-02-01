@@ -54,4 +54,4 @@ jobs:
           app-name: 'noqapi'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F21AF5E4F454537BE8FE6E9AA004A60 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51EEDEDCA0D045E9A0314C3209AE8DB2 }}
